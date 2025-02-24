@@ -9,7 +9,7 @@ The two Systems under test (SUTs) are:
 -Java-blog-aggregatory-boot 
 
 We provide the code and data-set for the empirical study in this repository. The four folders contain four Selenium Java test-suites for:
-1- Selenium test-suite using the Parasoft Selenic tool for the SUT: PetClinic
-2- Selenium test-suite using the Parasoft Selenic tool for the SUT: Java-blog-aggregatory-boot 
-3- Selenium test-suite using the SmartBear VisualTest tool for the SUT: PetClinic
-4- Selenium test-suite using the SmartBear VisualTest tool for the SUT: Java-blog-aggregatory-boot 
+- Selenium test-suite using the Parasoft Selenic tool for the SUT: PetClinic
+- Selenium test-suite using the Parasoft Selenic tool for the SUT: Java-blog-aggregatory-boot 
+- Selenium test-suite using the SmartBear VisualTest tool for the SUT: PetClinic
+- Selenium test-suite using the SmartBear VisualTest tool for the SUT: Java-blog-aggregatory-boot 
